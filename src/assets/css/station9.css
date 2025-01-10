@@ -1,0 +1,5 @@
+#animation{
+    animation-name: bounce;
+    animation-duration: 3s;
+    animation-fill-mode: forwards;
+}
